@@ -1,0 +1,13 @@
+body {
+    background: #e6e6e6;
+}
+.main-header {
+    background: #0066ff;
+}
+.main-menu a {
+    color: #0066ff;
+    font-size: 17px;
+    padding: 10px 15px;
+    background: #ffffff;
+    margin-left: 5px;
+}
