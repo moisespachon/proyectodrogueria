@@ -11,3 +11,8 @@ body {
     background: #ffffff;
     margin-left: 5px;
 }
+.register-form {
+    width: 80vh;
+    height: 80%;
+    background: #ffffff;
+}
