@@ -10,6 +10,7 @@ body {
     padding: 10px 15px;
     background: #ffffff;
     margin-left: 5px;
+    text-decoration: none;
 }
 .register-form {
     width: 100vh;
@@ -21,6 +22,13 @@ body {
 .register-form label {
     font-size: 22px;
 }
+.register-form td {
+    text-align: right;
+}
+input[type="text"] input[type="password"]{
+    width: 500px;
+}
+
 input[type="submit"]{
     text-align: center;
     width: 300px;
